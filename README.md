@@ -18,7 +18,7 @@ _another italic_
 
 ## ordered list
 
-1.cse
-2.esc
-3.civil
-4.mech
+1. cse(a)
+2. ece(b)
+3. mech(c)
+4. eee(d)
